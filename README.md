@@ -1,2 +1,2 @@
-When you open the completion page, which contains two sections, they are as follows:
+When you open the start page, which contains two sections, they are as follows:
 The first is Post so that when I enter data through it, I have to return it in JSON format in the second part which is Git, and when I enter it to get the form, it should be sent as a URL.
